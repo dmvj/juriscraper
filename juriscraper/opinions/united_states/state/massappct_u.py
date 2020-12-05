@@ -1,6 +1,6 @@
 """
-Scraper for Massachusetts Appeals Court
-CourtID: massapp
+Scraper for Massachusetts Appeals Court Rule 23.0 (formerly Rule 1:28)
+CourtID: massappct
 Court Short Name: Mass App Ct
 Author: William Palin
 Court Contact: SJCReporter@sjc.state.ma.us (617) 557-1030
